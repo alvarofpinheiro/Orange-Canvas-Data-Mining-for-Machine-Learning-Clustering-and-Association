@@ -1,0 +1,16 @@
+class,animal,Cluster,Selected,pelo,ovíparo,leite,aéreo,aquático,predador,dentado,espinha,respira,venenoso,barbatanas,cauda,doméstico,pernas
+discrete,string,discrete,No Yes,não sim,não sim,não sim,não sim,não sim,não sim,não sim,não sim,não sim,não sim,não sim,não sim,não sim,continuous
+class,meta,meta,meta,,,,,,,,,,,,,,
+Marinhos,carpa,C1,Yes,não,sim,não,não,sim,não,sim,sim,não,não,sim,sim,sim,0.0
+Marinhos,peixe-gato,C1,Yes,não,sim,não,não,sim,sim,sim,sim,não,não,sim,sim,não,0.0
+Marinhos,peixe-cachorro,C1,Yes,não,sim,não,não,sim,sim,sim,sim,não,não,sim,sim,não,0.0
+Marinhos,golfinho,C1,Yes,não,não,sim,não,sim,sim,sim,sim,sim,não,sim,sim,não,0.0
+Marinhos,piranha,C1,No,não,sim,não,não,sim,sim,sim,sim,não,não,sim,sim,não,0.0
+Marinhos,jararaca,C1,No,não,sim,não,não,não,sim,sim,sim,sim,sim,não,sim,não,0.0
+Marinhos,cavalo-marinho,C1,No,não,sim,não,não,sim,não,sim,sim,não,não,sim,sim,não,0.0
+Marinhos,focas,C1,No,sim,não,sim,não,sim,sim,sim,sim,sim,não,sim,não,não,0.0
+Marinhos,leão-marinho,C1,No,sim,não,sim,não,sim,sim,sim,sim,sim,não,sim,sim,não,2.0
+Marinhos,cobra-d'água,C1,No,não,não,não,não,sim,sim,sim,sim,não,sim,não,sim,não,0.0
+Marinhos,verme,C1,No,não,sim,não,não,não,sim,sim,sim,sim,não,não,sim,não,0.0
+Marinhos,arraia,C1,No,não,sim,não,não,sim,sim,sim,sim,não,sim,sim,sim,não,0.0
+Marinhos,atum,C1,No,não,sim,não,não,sim,sim,sim,sim,não,não,sim,sim,não,0.0

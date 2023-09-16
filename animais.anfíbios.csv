@@ -1,0 +1,8 @@
+class,animal,Cluster,Selected,pelo,ovíparo,leite,aéreo,aquático,predador,dentado,espinha,respira,venenoso,barbatanas,cauda,doméstico,pernas
+discrete,string,discrete,No Yes,não sim,não sim,não sim,não sim,não sim,não sim,não sim,não sim,não sim,não sim,não sim,não sim,não sim,continuous
+class,meta,meta,meta,,,,,,,,,,,,,,
+Anfíbios,perereca,C1,Yes,não,sim,não,não,sim,sim,sim,sim,sim,não,não,não,não,4.0
+Anfíbios,rã,C1,No,não,sim,não,não,sim,sim,sim,sim,sim,sim,não,não,não,4.0
+Anfíbios,salamandra,C1,No,não,sim,não,não,sim,sim,sim,sim,sim,não,não,sim,não,4.0
+Anfíbios,sapo,C1,No,não,sim,não,não,sim,não,sim,sim,sim,não,não,não,não,4.0
+Anfíbios,jaboti,C1,No,não,sim,não,não,não,sim,sim,sim,sim,não,não,sim,não,4.0
